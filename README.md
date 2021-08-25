@@ -24,4 +24,4 @@
 
 * `intitle:"Index of" intext:"discordbot"`
 
-### Got over ~20 bots tokens using that shit (including Manacube(top 10 world Minecraft server) and other big ones 😈😈)
+### Got over ~20 bots tokens using that shit (including 1-4k members servers 😈😈)

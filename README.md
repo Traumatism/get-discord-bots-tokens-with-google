@@ -1,4 +1,4 @@
-# 🙀🙀🙀 Get Discord Bots's token using Google 🙀🙀🙀
+# 🙀 Get Discord Bots's token using Google 🙀
 
 > cpasoim#3121 (pls don't skid'cusate me 😃)
 
@@ -8,7 +8,7 @@
 
 ### lol that super simple but i didn't saw any peoples doing or talking about this before 🧐
 
-## Here are the `l33t` 👨‍💻dorks👨‍💻 🥶🥶
+## Here are the `l33t` 👨‍💻 dorks 👨‍💻 🥶🥶
 
 * `intitle:"Index of" intext:"node_modules" inurl:discord`
 
@@ -24,4 +24,7 @@
 
 * `intitle:"Index of" intext:"discordbot"`
 
+__😹😹 ofc there is multiple possibilities, you can use your brain to create it 😹😹__
+
 ### Got over ~20 bots tokens using that shit (including 1-4k members servers 😈😈)
+

@@ -6,7 +6,7 @@
 
 > https://twitter.com/toastakerman
 
-### lol that super simple but i didn't saw any peoples doing or talking about this before 🧐
+### lol that super simple but i didn't see any peoples doing or talking about this before 🧐
 
 ## Here are the `l33t` 👨‍💻 dorks 👨‍💻 🥶🥶
 

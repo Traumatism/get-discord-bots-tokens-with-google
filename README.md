@@ -1,9 +1,9 @@
-<h1 align="center"> 🙀 Get Discord Bots's token using Google Dorks 🙀</h1>
+<h1 align="center">👻 Get Discord Bots's token using Google Dorks</h1>
 
 <h3 align="center"> This is so damn simple but i don't see many people doing it or talking about this method before 🧐 </h3>
 <hr>
 
-<h1 align="center">👨‍💻 Here are the `l33t` dorks 👨‍💻</h1>
+<h1 align="center">👾 Here are the l33t dorks</h1>
 
 *     intitle:"Index of" intext:"node_modules" inurl:discord
 
@@ -21,12 +21,10 @@
 
 <h3 align="center"> 😹😹 ofc there is multiple possibilities, you can use your brain to create it 😹😹 </h3>
 
-<h2 align="center"> Got over ~20 bots tokens using that shit (including 1-4k members servers 😈😈) </h2>
+<h2 align="center"> Got over ~20 bots tokens using that shit (including 1-4k members servers) </h2>
 
 ### Something:
 
-> cpasoim#3121 (pls don't skid'cusate me 😃)
-
-> https://discord.gg/x8yJKyhuUW 
+> toast#3108 (pls don't skid'cusate me 😃)
 
 > https://twitter.com/toastakerman
